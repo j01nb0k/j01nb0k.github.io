@@ -22,14 +22,8 @@
         tailwind.config = {
             theme: {
                 extend: {
-                    colors: {
-                        primary: "#0f172a",
-                        accent: "#3b82f6"
-                    },
-                    fontFamily: {
-                        sans: ['Inter', 'sans-serif'],
-                        serif: ['Playfair Display', 'serif']
-                    }
+                  colors: { primary: "#0f172a", accent: "#3b82f6" },
+                    fontFamily: { sans: ['Inter', 'sans-serif'], serif: ['Playfair Display', 'serif'] }
                 }
             }
         }
@@ -85,7 +79,11 @@
 
     <section id="about-me" class="py-20 px-6 max-w-5xl mx-auto">
         <h2 class="text-3xl font-serif font-bold mb-8 text-center">Sobre mim</h2>
-        <p class="text-gray-300 leading-relaxed text-center">Uma lenda viva, com <span id="years-with-skin-in-the-game"></span> anos de pele em jogo e fome de 8 tigres-siberianos.</p>
+        <p class="text-gray-300 leading-relaxed text-center">
+            Uma lenda viva, com 
+            <a href="skin-in-the-game.html" class="text-accent border-b border-accent/30 hover:border-accent transition-all">
+                <span id="years-with-skin-in-the-game"></span> anos de pele em jogo</a> e fome de 8 tigres-siberianos.
+        </p>
     </section>
 
     <section id="skills" class="py-20 px-6 max-w-6xl mx-auto">
@@ -97,7 +95,7 @@
             </div>
             <div>
                 <h3 class="text-xl font-semibold mb-4">Trading</h3>
-                <p class="text-gray-300">Gestão de risco e negociação de contratos futuros de metais.</p>
+                <p class="text-gray-300">Gestão de risco e negociação de contratos futuros.</p>
             </div>
             <div>
                 <h3 class="text-xl font-semibold mb-4">E-commerce</h3>
@@ -172,7 +170,7 @@
         </div>
     </section>
 
-    <footer class="py-6 text-center text-gray-500 text-sm">
+    <footer class="py-6 text-center text-gray-500 text-sm border-t border-white/5">
         © <span id="current-year"></span> j01nb0k. Todos os direitos reservados.
     </footer>
 

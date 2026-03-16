@@ -1,0 +1,81 @@
+A
+    AWS
+    Azure DevOps
+
+B
+    Bash
+    BeautifulSoup
+    Bootstrap
+    Bulma
+
+C
+    CodeIgniter
+
+D
+    Docker
+
+E
+    Eclipse BIRT
+    Express
+
+F
+    FileZilla
+    Forgejo
+    Futures Contracts
+
+G
+    GitHub
+    GitLab
+    GLPI
+    Google Ads
+    Google Maps Platform
+
+J
+    Jira
+    jQuery UI
+
+K
+    Keycloak
+
+L
+    Laravel
+    Linux
+    LocationIQ
+    Locaweb
+
+M
+    Mercado Livre
+    Meta Ads
+    MongoDB
+    MUI
+    MySQL
+
+N
+    Next.js
+    Nuvemshop
+
+P
+    Pandas
+    Perl
+    PHP
+    PostgreSQL
+    PowerShell
+    Price Action
+
+R
+    Risk Management
+    Ruby on Rails
+
+S
+    SQLite
+    Stripe
+    Symfony
+
+T
+    Tailwind CSS
+    Tally
+    TradingView
+
+W
+    Windows NT
+    WSO2 Identity Server
